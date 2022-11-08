@@ -2,8 +2,8 @@
 title: "About"
 image: profile.jpg
 about:
-  template: jolla
+  template: marquee
 
 ---
 
-About this blog
+This blog is a test and demonstration platform to show what can be done to create a blog using quarto and github.

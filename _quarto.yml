@@ -9,13 +9,12 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+
 format:
   html:
     theme: 
-      light: cosmo
-      dark: darkly
+      light: sandstone
+      dark: slate
     css: styles.css
 
 
