@@ -1,0 +1,10 @@
+---
+title: "My new post"
+author: "Aaron Wenger"
+date: "2022-11-08"
+categories: [news]
+---
+
+This is the first post in a Quarto blog which I wrote. Welcome!
+
+I am experimenting with the available features to see how they might be used to create blogs with different styles and ranges of functionality. The following series of posts were created with that purpose.
